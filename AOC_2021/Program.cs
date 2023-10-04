@@ -27,7 +27,7 @@ class Program
       return -1;
     }
 
-    result = DayOne.DepthIncreases(inputs);
+    result = DayTwo.FinalDepthHorizontalProduct(inputs);
 
     Exit(0);
     return result;
