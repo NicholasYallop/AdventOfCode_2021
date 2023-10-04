@@ -1,6 +1,5 @@
 namespace AOC_2021;
-
-static class DayOne
+public static class DayOne
 {
   public static int DepthIncreases(string[] depths)
   {

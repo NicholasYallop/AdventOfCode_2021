@@ -27,7 +27,7 @@ class Program
       return -1;
     }
 
-    result = DayThree.GetLifeSupportRating(inputs);
+    result = DayFour.GetBestBingoScore(inputs);
 
     Exit(0);
     return result;
