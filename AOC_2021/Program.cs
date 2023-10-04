@@ -27,7 +27,7 @@ class Program
       return -1;
     }
 
-    result = DayTwo.FinalDepthHorizontalProduct(inputs);
+    result = DayThree.GetLifeSupportRating(inputs);
 
     Exit(0);
     return result;
