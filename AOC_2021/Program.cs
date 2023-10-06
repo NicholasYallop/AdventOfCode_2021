@@ -27,7 +27,7 @@ class Program
       return -1;
     }
 
-    result = DayFour.GetBestBingoScore(inputs);
+    result = DayFive.OverlappingVents(inputs);
 
     Exit(0);
     return result;
