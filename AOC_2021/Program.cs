@@ -27,7 +27,7 @@ class Program
       return -1;
     }
 
-    result = DayFive.OverlappingVents(inputs);
+    result = DaySix.EightyDaysOfFish(inputs);
 
     Exit(0);
     return result;
