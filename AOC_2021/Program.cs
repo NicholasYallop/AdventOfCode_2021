@@ -27,7 +27,7 @@ class Program
       return -1;
     }
 
-    result = DaySix.EightyDaysOfFish(inputs);
+    result = DaySeven.MinCrabFuel(inputs);
 
     Exit(0);
     return result;
